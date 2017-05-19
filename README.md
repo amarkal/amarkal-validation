@@ -1,0 +1,5 @@
+# amarkal-validation [![Build Status](https://scrutinizer-ci.com/g/askupasoftware/amarkal-validation/badges/build.png?b=master)](https://scrutinizer-ci.com/g/askupasoftware/amarkal-validation/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/askupasoftware/amarkal-validation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/askupasoftware/amarkal-validation/?branch=master) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/) [![Amarkal Powered](https://askupasoftware.com/amarkal-powered.svg)](https://products.askupasoftware.com/amarkal) [![License](https://img.shields.io/badge/license-GPL--3.0%2B-red.svg)](https://raw.githubusercontent.com/askupasoftware/amarkal-validation/master/LICENSE)
+
+A set of data validation functions for WordPress.
+
+**Tested up to:** WordPress 4.7

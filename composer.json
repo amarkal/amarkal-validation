@@ -1,0 +1,28 @@
+{
+    "name": "askupa-software/amarkal-validation",
+    "description": "A set of data validation functions for WordPress.",
+    "type": "wordpress",
+    "keywords": ["wordpress","admin","ui","form","user interface", "validation", "options"],
+    "homepage": "https://github.com/askupasoftware/amarkal-validation",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Askupa Software",
+            "email": "hello@askupasoftware.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/askupasoftware/amarkal-validation/issues",
+        "source": "https://github.com/askupasoftware/amarkal-validation"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "askupa-software/amarkal-ui": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Amarkal\\Validation\\": ""
+        },
+        "files": ["composer.php"]
+    }
+}
