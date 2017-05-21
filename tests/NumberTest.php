@@ -1,14 +1,9 @@
 <?php
 
-require_once 'Number.php';
+require_once dirname(__DIR__).'/Number.php';
 
 use PHPUnit\Framework\TestCase;
 use Amarkal\Validation\Number;
-
-/**
- * To run the tests, use the following command:
- * $ phpunit tests.php
- */
 
 class NumberTest extends TestCase
 {

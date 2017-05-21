@@ -1,14 +1,9 @@
 <?php
 
-require_once 'Strings.php';
+require_once dirname(__DIR__).'/Strings.php';
 
 use PHPUnit\Framework\TestCase;
 use Amarkal\Validation\Strings;
-
-/**
- * To run the tests, use the following command:
- * $ phpunit tests.php
- */
 
 class StringsTest extends TestCase
 {
