@@ -3,7 +3,7 @@
     "description": "A set of data validation functions for WordPress.",
     "type": "wordpress",
     "keywords": ["wordpress","admin","ui","form","user interface", "validation", "options"],
-    "homepage": "https://github.com/askupasoftware/amarkal-validation",
+    "homepage": "https://github.com/amarkal/amarkal-validation",
     "license": "GPL-3.0",
     "authors": [
         {
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/askupasoftware/amarkal-validation/issues",
-        "source": "https://github.com/askupasoftware/amarkal-validation"
+        "issues": "https://github.com/amarkal/amarkal-validation/issues",
+        "source": "https://github.com/amarkal/amarkal-validation"
     },
     "require": {
         "php": ">=5.3.0"

@@ -6,7 +6,7 @@
  *
  * @package   amarkal-validation
  * @author    Askupa Software <hello@askupasoftware.com>
- * @link      https://github.com/askupasoftware/amarkal-validation
+ * @link      https://github.com/amarkal/amarkal-validation
  * @copyright 2017 Askupa Software
  */
 
